@@ -1,0 +1,3 @@
+int id imageView1 0x7f030000
+int id textView1 0x7f030001
+int layout item 0x7f020000
