@@ -1,7 +1,0 @@
-11-29 16:28:36.732: I/AnimationView(21149): 4
-11-29 16:28:36.737: I/AnimationView(21149): 4,sleepTime=10000
-11-29 16:28:36.802: I/AnimationView(21149): heightMeasureSpec=-2147481947
-11-29 16:28:36.802: I/AnimationView(21149): heightMeasureSpec=-2147482043
-11-29 16:28:36.942: I/AnimationView(21149): viewWidth=984,viewHeight=1605
-11-29 16:28:36.952: I/AnimationView(21149): heightMeasureSpec=-2147481947
-11-29 16:28:36.952: I/AnimationView(21149): heightMeasureSpec=-2147482043
